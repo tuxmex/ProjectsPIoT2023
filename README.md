@@ -30,20 +30,20 @@ Parrafo con el objetivo general
 |    |            |             |        |          |             |
 |    |            |             |        |          |             |
 
-##Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
+## Epicas del proyecto (Minimo debe de haber una épica por integrante de equipo)
 - Elemento de la lista de épicas del proyecto
 - Elemento de la lista de épicas del proyecto
 - Elemento de la lista de épicas del proyecto
 - Elemento de la lista de épicas del proyecto
 
-##Tabla de historias de usuario
+## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 |    |                     |           |            |               |             |
 
-##Prototipo en dibujo
+## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 
 
