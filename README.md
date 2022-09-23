@@ -16,14 +16,14 @@ Parrafo con el objetivo general
 ...
 - Elemento n de la lista de objetivos específicos
 
-##Tabla de Software utilizado
+## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
 |----|----------|---------|------|
 |    |          |         |      |
 |    |          |         |      |
 |    |          |         |      |
 
-##Tabla con el hardware utilizado
+## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |    |            |             |        |          |             |
