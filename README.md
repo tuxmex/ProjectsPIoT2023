@@ -32,7 +32,7 @@ Parrafo con el objetivo general
 ## Prototipo en dibujo
 - Coloca la fotografia de tu prototipo dibujado a lapiz
 
-# Diagrama en Fritzing
+## Diagrama en Fritzing
 - Coloca la imagen con el circuito propuesta
 
 
